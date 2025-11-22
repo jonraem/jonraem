@@ -2,6 +2,8 @@
 
 Software Developer @ [Vincit](https://www.vincit.com/) · Helsinki, Finland
 
+Mentor and founder @ [Switch Case ry](https://switchcase.org/)
+
 ## 🛠️ What I Love To Work On
 
 - **Data-intensive applications** - I love data! I thrive building high-performance systems that can handle heavy data loads.
