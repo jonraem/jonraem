@@ -1,6 +1,6 @@
 # 👋🏻 Hey, I'm [Joni Rämö](https://www.joniramo.dev/)
 
-Software Developer @ [Vincit](https://www.vincit.com/)
+Software developer @ [Vincit](https://www.vincit.com/)
 
 Mentor and founder @ [Switch Case ry](https://switchcase.org/)
 
