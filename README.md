@@ -13,7 +13,7 @@ Mentor and founder @ [Switch Case ry](https://switchcase.org/)
 
 ## ⚙️ Tech Preferences
 
-NestJS · React · Vue.js · TypeScript · Go · Azure · Cursor AI
+NestJS · React · Next.js · Vue.js · Nuxt · TypeScript · Go · Azure · AWS · Cursor · Copilot
 
 Not an exclusive list, I love learning new tech.
 
